@@ -8,5 +8,5 @@ Notas de Lectura para mis clases en Enter Tech School.
 * [Linkeldn](https://www.linkedin.com/in/mauricio-cherre-237602216/)
 * [Instagram](https://www.instagram.com/steff_sox/)
 ## Mis notas de lecturas: ##
-* mindset.md
+* [mindset.md](https://github.com/Asmauche/reading-notes/blob/main/mindset.md)
   
