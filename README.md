@@ -1,7 +1,7 @@
 # Mauricio Stefano Cherre Mendoza
 Notas de Lectura para mis clases en Enter Tech School.
 ## Foto ##
-![FotoMau](https://avatars.githubusercontent.com/u/130811777?v=4)
+![FotoMau](<img src="https://avatars.githubusercontent.com/u/130811777?v=4" width =100px alt="logo"/>)
 **Tengo 23 años, vivo en Indenpencia, me gusta escuchar musica, salsa y cumbia son mis géneros favoritos.**
 ## Informacion de contacto ##
 ** Comparto mis redes sociales **
