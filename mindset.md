@@ -7,4 +7,4 @@ En lugar de ver los errores como fracasos, los interpretas como oportunidades pa
 * Celebra el progreso, ya sea pequeño o grande.
 * Abraza los desafíos, como aprender un nuevo framework o resolver bugs complejos.
 ### LINK ###
-**![README.md] ()**
+**![README.md](https://github.com/Asmauche/reading-notes/blob/main/README.md)**
