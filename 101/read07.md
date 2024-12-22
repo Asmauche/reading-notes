@@ -85,3 +85,59 @@ git push origin main
 ```
 
 Con estos comandos, puedes gestionar versiones y colaborar eficazmente en proyectos usando Git.
+
+### READ 07
+
+**1. ¿Qué es el control de versiones?**
+Git es un sistema de control de versiones distribuido que permite rastrear cambios en archivos y coordinar el trabajo entre desarrolladores. Funciona mediante un historial de cambios, permitiendo revertir a versiones anteriores, colaborar en equipo y manejar diferentes ramas de desarrollo.
+
+**2. ¿Qué es “clone” en Git?**
+En Git, el comando clone se utiliza para crear una copia de un repositorio existente en un nuevo directorio local. Este comando es fundamental cuando deseas trabajar en un proyecto que ya existe en un repositorio remoto, como GitHub.
+
+**3. ¿Cuál es el comando para agregar los archivos modificados a la zona de preparación?**
+
+Para agregar los archivos modificados a la zona de preparación (staging area) en Git, utilizas el comando git add.
+
+- Agregar un archivo específico:
+
+Esto agrega un archivo específico a la zona de preparación.
+`git add nombre_del_archivo`
+
+- Agregar todos los archivos modificados
+
+Este comando agrega todos los archivos modificados en el directorio actual y sus subdirectorios a la zona de preparación.
+`git add .`
+
+- Agregar archivos en un directorio específico:
+
+Esto agrega todos los archivos modificados dentro de un directorio específico a la zona de preparación.
+
+`git add nombre_del_directorio/`
+
+- Agregar archivos que coincidan con un patrón:
+
+Este comando agrega todos los archivos con la extensión .txt a la zona de preparación.
+
+`git add *.txt`
+
+**4. ¿Cuál es el comando para enviar la captura de los archivos modificados a Github?**
+
+Para enviar los cambios confirmados (commits) a un repositorio remoto en GitHub, utilizas el comando git push. Los pasos son:
+
+- Asegurar de que los cambios estén confirmados
+
+`git commit -m "Descripción de los cambios"`
+
+- Envía los cambios al repositorio remoto:
+
+`git push origin nombre-de-la-rama`
+
+**origin**: Es el nombre predeterminado del repositorio remoto. Si has clonado el repositorio, este nombre ya estará configurado.
+
+**nombre-de-la-rama**: Especifica la rama a la que deseas enviar los cambios. Por ejemplo, main o master.
+
+`git push origin main`
+
+Este comando enviará los cambios confirmados en tu rama local al repositorio remoto en GitHub. Si es la primera vez que haces un push a una nueva rama, puede que necesites usar la opción -u para establecer la rama de seguimiento:
+
+`git push -u origin nombre-de-la-rama`
