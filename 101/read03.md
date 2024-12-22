@@ -9,7 +9,7 @@ CSS (Cascading Style Sheets) es un lenguaje utilizado para describir la presenta
 Se usa el atributo `style` dentro de una etiqueta HTML:  
 
 ```html:
-<p style="color: blue; font-size: 16px;">Texto con estilo en línea<p/>
+<p> style="color: blue; font-size: 16px;">Texto con estilo en línea <p/>
 ```
 
 **En una hoja de estilo interna**
