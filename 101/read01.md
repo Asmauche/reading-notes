@@ -21,7 +21,7 @@ La web se basa en archivos como HTML (estructura), CSS (estilo) y JavaScript (in
 
 ## Resumen del proceso
 
-> El usuario introduce una URL en el navegador.  
-> El navegador envía una solicitud HTTP/HTTPS al servidor correspondiente.  
-> El servidor responde con el contenido solicitado (p. ej., una página HTML).  
-> El navegador procesa y muestra el contenido al usuario.
+> - El usuario introduce una URL en el navegador.  
+> - El navegador envía una solicitud HTTP/HTTPS al servidor correspondiente.  
+> - El servidor responde con el contenido solicitado (p. ej., una página HTML).  
+> - El navegador procesa y muestra el contenido al usuario.
