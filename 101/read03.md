@@ -13,8 +13,8 @@ Se usa el atributo `style` dentro de una etiqueta HTML:
 ```
 
 **En una hoja de estilo interna**
-
 Se escribe dentro de la etiqueta `style` en el `head` del documento HTML:
+
 ```html
 <style>
     p {
@@ -25,14 +25,12 @@ Se escribe dentro de la etiqueta `style` en el `head` del documento HTML:
 ```
 
 **En una hoja de estilo externa**
-
-Se enlaza un archivo CSS externo mediante 
+Se enlaza un archivo CSS externo mediante
 `link` en el `head`:
+
 ```html
 <link rel="stylesheet" href="estilos.css">
 ```
-
-
 
 ## Partes esenciales de CSS
 

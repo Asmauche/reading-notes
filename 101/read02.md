@@ -20,6 +20,7 @@ HTTP (Hypertext Transfer Protocol) es un protocolo de comunicación que define c
    - **Respuesta (Response):** Enviada por el servidor, incluye un código de estado (p. ej., 200 OK) y el contenido solicitado.
 
 4. **Códigos de estado**  
+
    Informan sobre el resultado de la solicitud:  
    - `200`: Éxito.  
    - `404`: Recurso no encontrado.  
