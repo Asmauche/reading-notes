@@ -4,7 +4,7 @@ Git es un sistema de control de versiones distribuido que permite rastrear cambi
 
 ## Comandos básicos de Git
 
-**1. Configuración inicial**  
+**1. Configuración inicial:**  
 
 Configura tu identidad para los commits:  
 
