@@ -40,7 +40,7 @@ Sirve como una guía para los desarrolladores al momento de construir el sitio w
 **3.¿Por qué es importante realizar una investigación de usuario antes de crear un wireframe, y qué aspectos se deben considerar durante esta investigación?**
 Realizar una investigación de usuario antes de crear un wireframe es crucial porque permite entender las necesidades, comportamientos y expectativas de los usuarios. Esto asegura que el diseño final sea funcional, intuitivo y alineado con lo que los usuarios realmente necesitan.
 
-Aspectos a Considerar en la Investigación de Usuario: 
+Aspectos a Considerar en la Investigación de Usuario:
 
 1. Entrevistas y Encuestas: Recopilar información directa de los usuarios sobre sus necesidades y expectativas.
 
@@ -66,4 +66,5 @@ Para asegurar que un wireframe comunique efectivamente la estructura y funcional
 - Botones
 
 **5. ¿Cómo contribuye CSS a lograr que el wireframe elaborado pueda ser desarrollado en una página web?**
+
 Permite crear diseños que se adapten a diferentes tamaños de pantalla y dispositivos. Permite aplicar estilos a los elementos HTML definidos en el wireframe, como colores, tipografías, márgenes, y bordes. CSS es esencial para dar vida al wireframe, convirtiendo una estructura básica en una página web completa y funcional.
