@@ -12,7 +12,9 @@ Facilita la comunicación entre los miembros del equipo y con los clientes, aseg
 Permite detectar posibles problemas de usabilidad y navegación antes de invertir tiempo en el diseño detallado.
 4. Guía para el desarrollo:
 Sirve como una guía para los desarrolladores al momento de construir el sitio web.
+
 **2. ¿Cuáles son las diferencias entre los wireframes de baja fidelidad y los de alta fidelidad, y en qué situaciones se recomienda usar cada uno?**
+
 ***Wireframes de Baja Fidelidad***
 
 - Características: Son simples y esquemáticos, con formas básicas como rectángulos y líneas para representar los elementos de la página. No incluyen detalles de diseño como colores, tipografías o imágenes.
@@ -50,7 +52,8 @@ Aspectos a Considerar en la Investigación de Usuario:
 
 5. Análisis de Datos: Utilizar datos cuantitativos y cualitativos para tomar decisiones informadas sobre el diseño.
 
-**4.¿Qué elementos clave deben incluirse en un wireframe para asegurar que se comunique efectivamente la estructura y funcionalidad del sitio?**ç
+**4.¿Qué elementos clave deben incluirse en un wireframe para asegurar que se comunique efectivamente la estructura y funcionalidad del sitio?**
+
 Para asegurar que un wireframe comunique efectivamente la estructura y funcionalidad de un sitio web, es importante incluir los siguientes elementos clave:
 
 - Encabezados
