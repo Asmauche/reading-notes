@@ -46,21 +46,21 @@ Aquí, si la variable edad es menor a 18, se imprimirá "Eres menor de edad." en
 
 Operadores Aritméticos: Se utilizan para realizar cálculos matemáticos.
 
-Suma (+): Añade dos valores. Ejemplo: 5 + 3 resulta en 8.
+- Suma (+): Añade dos valores. Ejemplo: 5 + 3 resulta en 8.
 
-Resta (-): Resta un valor de otro. Ejemplo: 5 - 3 resulta en 2.
+- Resta (-): Resta un valor de otro. Ejemplo: 5 - 3 resulta en 2.
 
-Multiplicación (*): Multiplica dos valores. Ejemplo: 5 * 3 resulta en 15.
+- Multiplicación (*): Multiplica dos valores. Ejemplo: 5 * 3 resulta en 15.
 
-División (/): Divide un valor por otro. Ejemplo: 6 / 3 resulta en 2.
+- División (/): Divide un valor por otro. Ejemplo: 6 / 3 resulta en 2.
 
-Módulo (%): Devuelve el resto de una división. Ejemplo: 5 % 2 resulta en 1.
+- Módulo (%): Devuelve el resto de una división. Ejemplo: 5 % 2 resulta en 1.
 
-Exponenciación (**): Eleva un valor a la potencia de otro. Ejemplo: 2 ** 3 resulta en 8.
+- Exponenciación (**): Eleva un valor a la potencia de otro. Ejemplo: 2 ** 3 resulta en 8.
 
-Incremento (++): Incrementa el valor de una variable en 1. Ejemplo: let x = 5; x++; resulta en x = 6.
+- Incremento (++): Incrementa el valor de una variable en 1. Ejemplo: let x = 5; x++; resulta en x = 6.
 
-Decremento (--): Decrementa el valor de una variable en 1. Ejemplo: let x = 5; x--; resulta en x = 4.
+- Decremento (--): Decrementa el valor de una variable en 1. Ejemplo: let x = 5; x--; resulta en x = 4.
 
 **4. ¿Cómo se declara una variable en JavaScript y cuáles son las diferencias entre var, let y const en cuanto a su alcance y mutabilidad?**
 
