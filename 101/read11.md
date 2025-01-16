@@ -1,9 +1,11 @@
 # READ 11
 
 **1. ¿Qué es el DOM?**
+
 El DOM (Document Object Model) es una interfaz de programación para los documentos HTML y XML. Representa la estructura del documento como un árbol de nodos, donde cada nodo es un objeto que representa una parte del documento, como un elemento, un atributo o un texto. Con el DOM se pueden acceder y manipular el contenido, la estructura y el estilo de los documentos de manera dinámica utilizando JavaScript.
 
-**2. Describe brevemente la relación entre el DOM y JavaScript**
+**2. Describe brevemente la relación entre el DOM y JavaScript:**
+
 DOM es la estructura del documento y JavaScript es la herramienta que permite interactuar con esa estructura para crear páginas web interactivas y dinámicas.
 
 **3.¿Qué método usarías para seleccionar un elemento del DOM por su ID y cómo se utiliza?**
